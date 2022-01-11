@@ -1,0 +1,27 @@
+Lyrics genius API information:
+
+CLIENT ID: w1I5P1ANs1stlfMNyeElm2vTdqWeMfW3GsjeiPz4ISS-Z1_DWwq3ZI6sYGUPvNUz
+
+CLIENT SECRET:
+LHmdvt2WkO3z3iqz1bGxguLn2E67M-HrQjwUHSyMnZKK6qy3-YXbgb7Ce9U87lTRDbcw5pj0Bpz0fHTbPp8JMw
+
+CLIENT ACCESS TOKEN:
+KaF_szsP_GH1ttjFyoFAHygDRUtKVDMcoxPKDgIwx9hiqxn2ikKYQMgA26yqSCem
+
+APP WEBSITE URL
+http://fightingthenashvilleblues.com
+
+REDIRECT URI
+http://fightingthenashvilleblues.com
+
+
+---
+
+CLIENT ID
+w1I5P1ANs1stlfMNyeElm2vTdqWeMfW3GsjeiPz4ISS-Z1_DWwq3ZI6sYGUPvNUz
+
+CLIENT SECRET:
+LHmdvt2WkO3z3iqz1bGxguLn2E67M-HrQjwUHSyMnZKK6qy3-YXbgb7Ce9U87lTRDbcw5pj0Bpz0fHTbPp8JMw
+
+CLIENT ACCESS TOKEN
+K6FCIE_Ue5v1AW7dasxPUB78GF4RtK-mFFoVsNzO0Dfjd2bDaxULYn0nKb9_XQzb
