@@ -38,6 +38,9 @@ def prepare():
 ########## PREPARE POWER DATA #########################
 
 def prepare2(): 
+    '''
+    This function imports a CSV, assigns datetime, reindexes, adds month and year column, and forward/backfills missing values.
+    '''
     df = pd.read_csv("https://raw.githubusercontent.com/jenfly/opsd/master/opsd_germany_daily.csv")
     print('Read power data from CSV...')
     print('Converting date to datetime...')
